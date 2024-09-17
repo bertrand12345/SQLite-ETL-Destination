@@ -1,11 +1,4 @@
-Hi, my name is Noah Gift, and I'm the author of this O'Reilly book, Practical ML Ops.
-And I wanted to talk a little bit about this next training here that's several hours long.
-What I'm going to do is I'm going to cover the basics of how to go from zero, learn about
-the trends that are happening with ML Ops, and then use pre-trained models in a GitHub
-code space to actually build out summarization, natural language processing tools, and a lot
-of other tools that are available by using Hugging Face and OpenAI.
-Okay, let's go ahead and get started.
-Hi, happy to be here today.
+
 A lot of new stuff I'm going to cover today that I think will be helpful to everybody.
 And I'll show you some of the research I'm doing as well for a new book beyond Practical
 ML Ops called Enterprise ML Ops.

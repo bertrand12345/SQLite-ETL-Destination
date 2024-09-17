@@ -1,0 +1,16 @@
+#devops
+black==24.8.0
+click==8.1.7
+pytest==8.3.3
+pytest-cov==5.0.0
+pylint==3.2.7
+boto3==1.35.20
+#web
+fastapi==0.114.2
+uvicorn==0.30.6
+#data
+yake==0.4.8
+#development
+ipython==8.26.0
+
+

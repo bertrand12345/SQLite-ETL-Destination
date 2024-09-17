@@ -6,6 +6,7 @@ Main cli or app entry point
 import yake
 import click
 
+
 # create a function that reads a file
 def read_file(filename):
     with open(filename, encoding="utf-8") as myfile:

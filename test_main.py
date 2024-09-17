@@ -2,6 +2,7 @@
 Test goes here
 
 """
+
 from main import read_file, extract_keywords, make_hashtags
 from click.testing import CliRunner
 from main import cli

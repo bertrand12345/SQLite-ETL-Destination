@@ -11,6 +11,7 @@ from os import path
 
 DATABASE = "keywords.db"
 
+
 # create a function that returns keywords, score and hashtags
 # create a function that loads keywords and score into a database
 def load_keywords(keywords, score, hashtags):

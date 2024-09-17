@@ -1,3 +1,4 @@
+[![CI](https://github.com/bertrand12345/SQLite-ETL-Destination/actions/workflows/cicd.yml/badge.svg)](https://github.com/bertrand12345/SQLite-ETL-Destination/actions/workflows/cicd.yml)
 # SQLite-ETL-Destination
 Specifically, the lab focuses on extracting keywords from transcriptions using the Keyword Extractor Tool and creating hashtags using the Hashtag Tool.
 

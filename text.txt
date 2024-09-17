@@ -1,8 +1,7 @@
-
 A lot of new stuff I'm going to cover today that I think will be helpful to everybody.
 And I'll show you some of the research I'm doing as well for a new book beyond Practical
 ML Ops called Enterprise ML Ops.
-And I'm talking with a lot of the leading experts on ML Ops, and that material is going
+And I'm talking with a lot of athe leading experts on ML Ops, and that material is going
 to go into the book.
 So I'm going to cover all the stuff that's really cutting edge today, as well as some
 traditional material.
